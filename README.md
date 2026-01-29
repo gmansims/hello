@@ -1,7 +1,8 @@
 # hello
 
 This is a test repo. I am using this to learn:
-    1. How GitHub works.
+    1. How GitHub works. I will use git commands from teh terminal. Complete!
+    
     2. How VS Code works.
     3. How to code in Pyhton.
     4. How to "vibe code" with Claude Code.
